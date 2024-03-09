@@ -57,4 +57,4 @@ def apostbout():
     return render_template("post.html")
 
 
-app.run(debug=True)
+# app.run(debug=True)
