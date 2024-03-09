@@ -11,8 +11,8 @@ run python main.py
 run python app.py
 
 ### Screenshots of Web Page for serving this machine learning solution
-![Home Page](url)
-![Prediction Page](url)
+![Home Page](https://raw.githubusercontent.com/ripun-jay/Household-Price-Prediction/master/screenshots/Screenshot%202024-03-09%20211444.png)
+![Prediction Page](https://github.com/ripun-jay/Household-Price-Prediction/blob/master/screenshots/Screenshot%202024-03-09%20211636.png)
 
 ### Additional Details
 For devlopment purpose, you can use the project environment:  "myenv"
